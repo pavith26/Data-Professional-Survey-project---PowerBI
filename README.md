@@ -1,1 +1,1 @@
-# Data_Professional_Survey_project-Power_BI
+Uses data on a survey carried out for data professionals. Data set found here: https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx. Raw data given in Excel file. Power BI used to clean data and produce dashboard.
